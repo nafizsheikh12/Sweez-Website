@@ -1,0 +1,16 @@
+.get-star:hover{
+    background-color: black !important;
+    color: azure !important;
+    border-color: azure !important;
+    transition: 0.3s;
+}
+
+h1.content-sec span {
+    color: #59BBF7;
+}
+
+img.logoweb {
+    width: 135px;
+    height: 27px;
+    margin-left: 105px;
+}

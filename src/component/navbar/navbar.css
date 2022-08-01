@@ -1,0 +1,31 @@
+.headerTop {
+    background: #212125 !important;
+    color: #fff !important;
+    padding: 2px;
+}
+
+.top-link {
+    display: flex;
+    justify-content: end;
+}
+
+.top-link a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.top-link a i {
+    margin-right: 7px;
+}
+
+.navbar-nav.ml-auto {
+    margin-left: auto;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+header {
+    box-shadow: 0 6px 4px -2px rgb(31 146 244 / 12%);
+}
